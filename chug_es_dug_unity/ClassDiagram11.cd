@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlayerController" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PlayerController.State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Player\PlayerController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>JWQwECAAEqJABgkkhEICEAFABtUEA8AsAQsgoUsCgBg=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAEACAAgAQAAAIAAAAAAEAAIQAhQQAAoAACAAg=</HashCode>
+      <FileName>Assets\Scripts\Enemys\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Gyémi" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemys\Gyémi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAEAAAAAAAAAEAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnPlayers" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\SpawnPlayers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ladder" Collapsed="true">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\Ladder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KASBAAACACIoAgAAAAQAAAAAAAACAAAAIAABAIIAAAI=</HashCode>
+      <FileName>Assets\Scripts\Game\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACAAAAgAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Game\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paralax" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQBAAAACAAABAgAAAAAAAAAIAAAAABAAAAEAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game\Paralax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlConnector" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAQAAAABAAAAAAAAAAAAAAgAAAAAAAAAQI=</HashCode>
+      <FileName>Assets\Scripts\Menu\SqlConnector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings" Collapsed="true">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAABAACAAAABAAAAAIAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerItem" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgEAAAAAAAAEICAEIADAAEQABEAAAAAgAAGA=</HashCode>
+      <FileName>Assets\Scripts\Menu\PlayerItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomItem" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAACAAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\RoomItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAhAACAIAAAAAAAAEAAQAACAAAAAoAAACAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\Pause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAACAEAAAoEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateAndJoinRooms" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIQgAIAAoGAAACAEAEACACAggAEAABIEMEAGAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Menu\CreateAndJoinRooms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConnectToServer" Collapsed="true">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAAAkAIACAAAAAAAEACIAAiAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu\ConnectToServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

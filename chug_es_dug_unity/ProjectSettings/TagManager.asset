@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Turn
+  - HpImage
+  - Bullet
+  - Ladder
+  - Collectable
+  - Door
+  - Spikes
+  - EnemySpawnpoint
+  - CollectableSpawnpoint
+  - UIControls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3652217009
+    locked: 0
+  - name: Middleground
+    uniqueID: 1591274715
+    locked: 0
+  - name: Entity
+    uniqueID: 2916586825
+    locked: 0
+  - name: Foreground
+    uniqueID: 746453973
+    locked: 0
