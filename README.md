@@ -1,5 +1,4 @@
-# [Chug és Dug](Aseprite/chugesdugtitle2.png) - Záródolgozat
-
+![Chug és Dug](Aseprite/chugesdugtitle2.png)
 ## Bevezetés
 A **Chug és Dug** egy 2D platformer játék, amelyben a játékosoknak ellenségeket kell legyőzniük és arannyal teli üstöket kell gyűjteniük. A projekt célja egy szórakoztató és kihívást jelentő játék fejlesztése volt, amely egyszerű, de élvezetes játékmenetet kínál mind egyéni, mind többjátékos módban.
 
