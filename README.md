@@ -19,7 +19,7 @@ A játék fejlesztése során az alábbi eszközöket használtam:
 - A **többjátékos mód** lehetővé teszi két játékos számára, hogy együttműködve teljesítsék a pályákat.
 - Ha minden ellenséget és üstöt összegyűjtött a játékos, megnyílik egy ajtó, amely a következő pályára vezet.
 
-[![Játékmenet](https://img.youtube.com/vi/EDSpfdYlVME/3.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://youtu.be/EDSpfdYlVME))
+[![Játékmenet](https://img.youtube.com/vi/EDSpfdYlVME/0.jpg)](https://youtu.be/EDSpfdYlVME)
 
 ## Rendszerkövetelmények
 A játék futtatásához ajánlott minimum konfiguráció:
